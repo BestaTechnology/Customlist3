@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Customlist3</string>
+
+    <string-array name="arrTitle">
+        <item> Lenovo  1</item>
+        <item> Lenovo  2</item>
+        <item> Lenovo  3</item>
+        <item> Lenovo  4</item>
+        <item> Lenovo  5</item>
+    </string-array>
+    <string-array name="arrDescription">
+        <item>This is description1 </item>
+        <item>This is description2 </item>
+        <item>This is description3 </item>
+        <item>This is description4</item>
+        <item>This is description5 </item>
+
+    </string-array>
+</resources>
